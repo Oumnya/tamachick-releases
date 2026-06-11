@@ -6,7 +6,7 @@ A tiny desktop companion for macOS with a fully local AI brain. A 3D chick lives
 
 **[Get the latest release →](https://github.com/Oumnya/tamachick-releases/releases/latest)**
 
-Unzip, drag **Tamachick.app** to Applications, open it. The app is signed and notarized by Apple, so it opens with a normal double-click. On first launch she walks you through a one-time ~6.8 GB model download, then click the egg.
+Download the **.dmg**, open it, and drag Tamachick into Applications. The app is signed and notarized by Apple, so it opens with a normal double-click. On first launch she walks you through a one-time ~6.8 GB model download, then click the egg.
 
 ## What she does
 
